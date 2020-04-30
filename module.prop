@@ -1,0 +1,6 @@
+id=hwc
+name=Systemless HWC
+version=1.0
+versionCode=1
+author=mibo5354, acroreiser, fourkbomb
+description=Add HWC Systemlessly [taken from acroreiser/Koffee]
